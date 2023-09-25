@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">🚀 Hello, I'm Aslam</h1>
 
-<!--
-**iAmSyntax/iAmSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/muhammed-aslam100/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Passionate Software Developer | 💼 Entrepreneur | 📱 Android App Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I'm currently working as a Software Developer at SOTI.
+- 🌟 I love building cutting-edge Android apps that make a difference.
+- 🚀 Entrepreneurship runs in my blood, and I'm always seeking new opportunities.
+- 💡 I thrive on challenges and am constantly on the run to add value to society 
+
+### 🛠️ Skills & Technologies
+
+- 💻 Languages: C#, Java, Kotlin, TypeScript
+- 🌐 Technologies: Angular, Jetpack Compose
+- 📱 Android: Expertise in Android app development
+- 🧰 Tools: Android Studio, Visual Studio, Git
+- 🚀 Always eager to learn and stay up-to-date with the latest tech trends.
+
+---
+Feel free to explore my repositories and connect with me on linkedIn. Let's build amazing things together! 🚀
+
