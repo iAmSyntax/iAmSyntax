@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hello, I'm Aslam</h1>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/iAmSyntax?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/muhammed-aslam100/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
