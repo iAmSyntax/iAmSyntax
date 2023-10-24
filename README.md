@@ -27,5 +27,4 @@
 - 🚀 Always eager to learn and stay up-to-date with the latest tech trends.
 
 ---
-Feel free to explore my repositories and connect with me on linkedIn. Let's build amazing things together! 🚀
 
