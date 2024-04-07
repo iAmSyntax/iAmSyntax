@@ -22,7 +22,6 @@
 
 - 💻 Languages: C#, Java, Kotlin, TypeScript
 - 🌐 Technologies: Angular, Jetpack Compose
-- 📱 Android: Expertise in Android app development
 - 🧰 Tools: Android Studio, Visual Studio, Git
 - 🚀 Always eager to learn and stay up-to-date with the latest tech trends.
 
